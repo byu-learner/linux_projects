@@ -28,7 +28,7 @@ Enhances user experience and workflow efficiency.
       in 12-hour format (with am / pm}: \@
   - Example:
     
-      PS1="\ue\h: \w$ *
+      PS1='\u@\h:\w$ '
 
         
 
